@@ -12,7 +12,7 @@ jobs:
             apt update && apt upgrade -y
             apt install -f -y git binutils-arm-linux-gnueabihf
             ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime && date
-            git clone --depth=1 https://github.com/fredslbn/chime-caf.git -b main builder_kernel
+            git clone --depth=1 https://github.com/fredslbn/x00td2.git -b main builder_kernel
             cd builder_kernel
             
 workflows:
