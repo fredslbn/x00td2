@@ -11,7 +11,7 @@ KERNEL_DIR="$(pwd)"
 ##----------------------------------------------------------##
 # Device Name and Model
 MODEL=Asus
-DEVICE=X00TD
+DEVICE=X01BD
 
 # Kernel Version Code
 #VERSION=
